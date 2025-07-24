@@ -22,7 +22,6 @@ CS50 is my introduction to computer science, and I'm using this repo to:
 
 - These solutions are my own work.
 - I may update them as I revisit or refactor older psets.
-- If you're a fellow student, try solving the problems yourself before looking at others' solutions — that’s where the learning happens.
 
 ---
 
